@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shafnybuilds
+# 👋 Hi, I’m @shafnybuilds
 - 👀 I’m interested in AI, ML & Data
-- 🌱 I’m currently learning AI | ML
+- 🌱 Currently Learning Big Data Concepts
 - 💞️ I’m looking to collaborate on AI, Robotic and Data projects
 - 📫 How to reach me - https://linkedin.com/in/shafnybuilds
 
