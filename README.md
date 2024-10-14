@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Shafny:
-👀 I’m interested in AI, ML & Data<br>🌱 Currently Learning Big Data Concepts<br>💞️ I’m looking to collaborate on AI, Robotics & Data projects<br>💬 Ask me about anything related to AI
+👀 I’m interested in AI, ML & Data<br>🌱 Currently Learning Big Data Concepts<br>💞️ I’m looking to collaborate on AI & Data projects<br>💬 Ask me about anything related to AI
 
 
 ## 🌐 Socials:
