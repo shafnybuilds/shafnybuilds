@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Shafny:
-🌱 As an AI/ML Engineer, <br> My mission is to make practical AI accessible for professionals to transform their businesses. I'm dedicated to developing innovative AI solutions that go beyond just enthusiastic concepts - I want to empower companies to achieve tangible results through the power of intelligent technology. Projects and code in my GitHub portfolio demonstrate my expertise in bringing AI out of the lab and into real-world applications.
+🌱 I'm an AI/ML Engineer specializing in Porduct Engineering, <br> My mission is to make practical AI accessible for professionals to transform their businesses. I'm dedicated to developing innovative AI solutions that go beyond just enthusiastic concepts - I want to empower companies to achieve tangible results through the power of intelligent technology. Projects and code in my GitHub portfolio demonstrate my expertise in bringing AI out of the lab and into real-world applications.
 
 
 ## 🌐 Socials:
