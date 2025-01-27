@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 for instant reply: shafnybuilds@gmail.com
+<br>
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shafnyai) 
 
 
