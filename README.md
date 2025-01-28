@@ -5,6 +5,7 @@
 ## 🌐 Socials:
 for instant reply: shafnybuilds@gmail.com
 <br><br>
+[![Peerlist](https://github-readme-badge.peerlist.io/api/shafny)](https://peerlist.io/shafny)
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fshafnybuilds)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shafnyai) 
 
